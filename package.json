@@ -49,7 +49,7 @@
     "autoprefixer": "^10.0.2",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
-    "postcss": "^8.1.0",
+    "postcss": "^8.4.31",
     "prettier": "^2.5.1",
     "react-is": ">= 16.8.0",
     "snyk": "^1.763.0",
@@ -65,7 +65,7 @@
     "@testing-library/dom": "8.11.1",
     "@types/node": "*",
     "autoprefixer": "^10.0.2",
-    "postcss": "^8.1.0",
+    "postcss": "^8.4.31",
     "react-is": ">= 16.8.0",
     "typescript": ">=3.2.1 <4.0.0 || >= 4.0.0 <5.0.0"
   }
